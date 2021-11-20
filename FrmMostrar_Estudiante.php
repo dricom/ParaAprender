@@ -22,9 +22,9 @@ $objEstudiante1=new Estudiante($nombre,$identificacion,$fechanacimiento,$valor);
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Nombre</th>
+      <th scope="col">Nombres y apellidos</th>
       <th scope="col">Identificación</th>
-      <th scope="col">Valor</th>
+      <th scope="col">Valor sin descuento</th>
       <th scope="col">Valor con descuento</th>
     </tr>
   </thead>
